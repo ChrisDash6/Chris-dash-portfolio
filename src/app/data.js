@@ -14,17 +14,17 @@ Websites:
 export const projectsData = [
     {
       id: 1,
-      name: "EcoTracker",
-      description: "Track your carbon footprint",
-      date: "2023-08-15",
-      demoLink: "https://ecotracker.example.com",
+      name: "Niyakire-Art-Gallery",
+      description: "Interactive 3D gallery",
+      date: "2024-04-03",
+      demoLink: "nelson-niyakire.vercel.app",
     },
     {
       id: 2,
-      name: "ArtGallery Online",
-      description: "Digital art showcase platform",
-      date: "2023-06-20",
-      demoLink: "https://artgalleryonline.example.com",
+      name: "Burundi Airlines",
+      description: "Interactive 3D portfolio",
+      date: "2024-04-04",
+      demoLink: "burundi-airlines.vercel.app",
     },
     {
       id: 3,
