@@ -17,14 +17,14 @@ export const projectsData = [
       name: "Niyakire-Art-Gallery",
       description: "Interactive 3D gallery",
       date: "2024-04-03",
-      demoLink: "nelson-niyakire.vercel.app",
+      demoLink: "https://nelson-niyakire.vercel.app/",
     },
     {
       id: 2,
       name: "Burundi Airlines",
       description: "Interactive 3D portfolio",
       date: "2024-04-04",
-      demoLink: "burundi-airlines.vercel.app",
+      demoLink: "https://burundi-airlines.vercel.app/",
     },
     {
       id: 3,
